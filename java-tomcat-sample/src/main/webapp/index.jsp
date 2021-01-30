@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
+<h2>Dear Ram Rachure you have been selected for a Devops Engineer and your package has been finalised by 12 lacs. We request you to acknowledge...</h2>
 </body>
 </html>
