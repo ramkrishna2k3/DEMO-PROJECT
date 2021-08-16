@@ -9,8 +9,7 @@
     3) Docker
     4) Kubernetes
     5) Jenkins CI/CD 
-    6) Jenkins CI/CD Pipeline
-    7) Maven
-    8) Linux and Windows Administraton
+    6) Maven
+    7) Linux and Windows Administraton
 </body>
 </html>
